@@ -15,6 +15,23 @@ List diatas merupakan ninja yang dikimkan oleh hokage ke 7 untuk menjalankan mis
 
 ## Misi 1
 
+```js
+function checkMunculnyaVocal(str) {
+    let result = {
+        a: 0,
+        i: 0,
+        u: 0,
+        e: 0,
+        o: 0,
+    }
+    // kerjakan disini
+    return result
+}
+  
+console.log(checkMunculnyaVocal("Iwagakure, Kumogakure, Sunagakure, Konohagakure, Kirigakure"))
+// { a: 8, i: 3, u: 7, e: 5, o: 3 }
+```
+
 ## Misi 2
 
 ## Misi 3
