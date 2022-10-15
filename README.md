@@ -34,6 +34,30 @@ console.log(checkMunculnyaVocal("Iwagakure, Kumogakure, Sunagakure, Konohagakure
 
 ## Misi 2
 
+```js
+function fullName({ firstName, lastName }){
+    // jawab disini
+}
+
+function sayHalo(
+    user, 
+    // jawab disini
+) {
+    // jawab disini
+    return `Halo, ${namaLengkap}!`;
+}
+
+console.log(sayHalo(
+    {
+      firstName: "Asrul",
+      lastName: "Harahap",
+    },
+    fullName
+))
+
+// Halo, Asrul Harahap!
+```
+
 ## Misi 3
 
 ## Misi 4
