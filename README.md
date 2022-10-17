@@ -60,6 +60,15 @@ console.log(sayHalo(
 
 ## Misi 3
 
+```js
+function removeDuplicate(arr) {
+  // code here
+}
+
+console.log(removeDuplicate(["Abi", "Joko", "Tono", "Tono", "Joko", "Abi"]))
+// output: Abi, Joko, Tono
+```
+
 ## Misi 4
 
 ## Misi 5
