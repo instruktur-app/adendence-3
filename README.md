@@ -71,6 +71,15 @@ console.log(removeDuplicate(["Abi", "Joko", "Tono", "Tono", "Joko", "Abi"]))
 
 ## Misi 4
 
+```js
+function squareOf(arr) {
+  // code here
+}
+
+console.log(squareOf([2, 4, 3]))
+// output: [ 4, 16, 9]
+```
+
 ## Misi 5
 
 ## Misi 6
