@@ -152,6 +152,26 @@ console.log(searchingProduct([{
 
 ## Misi 8
 
+```js
+function kasirApp(cart) {
+    let stok = {
+        "Buku": 100,
+        "Pensil": 100,
+        "Pena": 100,
+    }
+
+    // kerjakan disini
+    
+    return stok;
+}
+
+console.log(kasirApp([
+    ["Buku", 30],
+    ["Pena", 12],
+]))
+// { Buku: 70, Pensil: 100, Pena: 88 }
+```
+
 ## Misi 9
 
 ## Misi 10
