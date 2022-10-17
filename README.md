@@ -195,3 +195,14 @@ console.log(saiHai("Dini", "she"))
 ```
 
 ## Misi 10
+
+```js
+function atendence(arr) {
+    let result = {}
+    // kerjakan disini
+    return result;
+}
+
+console.log(atendence(['Hadir', 'Sakit', 'Hadir', 'Sakit', 'Hadir', 'Sakit', 'Hadir', 'Sakit', 'Hadir', 'Sakit']));
+//{ Hadir: 5, Sakit: 5 }
+```
