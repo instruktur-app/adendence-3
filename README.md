@@ -174,4 +174,24 @@ console.log(kasirApp([
 
 ## Misi 9
 
+```js
+function male(she) {
+    // kerjakan disini
+}
+
+function feMale(he) {
+    // kerjakan disini
+}
+
+function saiHai(name, call) {
+    // kerjakan disini
+}
+
+console.log(saiHai("Dono", "he"))
+// Hi Mas. Dono
+
+console.log(saiHai("Dini", "she"))
+// Halo Mba. Dini
+```
+
 ## Misi 10
