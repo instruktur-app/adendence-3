@@ -93,6 +93,28 @@ console.log(biggerElement([8,19,2,4]))
 
 ## Misi 6
 
+```js
+function groupByArtist(song) {
+    let result = {}
+    // kerjakan disini
+    return result;
+}
+
+console.log(groupByArtist([
+    { title: "Pesan Terakhir", artist: "Lyodra"},
+    { title: "Hati Hati di Jalan", artist: "Tulus"},
+    { title: "Ada Apa Denganmu", artist: "Peterpan"},
+    { title: "Terlanjur Mencinta", artist: "Lyodra"},
+    { title: "Teman Hidup", artist: "Tulus"},
+    { title: "Sang Dewi", artist: "Lyodra"},
+]));
+// {
+//     Lyodra: { title: [ 'Pesan Terakhir', 'Terlanjur Mencinta', 'Sang Dewi' ] },
+//     Tulus: { title: [ 'Hati Hati di Jalan', 'Teman Hidup' ] },
+//     Peterpan: { title: [ 'Ada Apa Denganmu' ] }
+// }
+```
+
 ## Misi 7
 
 ## Misi 8
