@@ -82,6 +82,15 @@ console.log(squareOf([2, 4, 3]))
 
 ## Misi 5
 
+```js
+function biggerElement(arr) {
+  // code here
+}
+
+console.log(biggerElement([8,19,2,4]))
+// output: 19
+```
+
 ## Misi 6
 
 ## Misi 7
